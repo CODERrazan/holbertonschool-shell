@@ -1,2 +1,6 @@
-#holbertonschool-shell
-This script switches the current user to the user `betty`.
+# holbertonschool-shell
+
+
+./permissions/0-iam_betty
+
+
