@@ -1,2 +1,2 @@
 #!/bin/bash
-(env; set | grep -v '^BASH_FUNC_') | sort
+env && set | grep -v '^BASH_FUNC_' && declare -f
